@@ -5,4 +5,8 @@ public class Application {
         System.out.println("Git is cool");
         System.out.println("GitHub is awesome");
     }
+
+    private void doSomething(){
+        System.out.println("doing something");
+    }
 }
